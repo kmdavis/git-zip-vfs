@@ -1,0 +1,9 @@
+{
+    "name": "git-zip-vfs",
+    "version": "0.0.1",
+    "dependencies": {
+        "browserfs": "^1.4.3",
+        "isomorphic-git": "^0.51.7",
+        "jszip": "^3.1.5"
+    }
+}
